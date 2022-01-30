@@ -1,6 +1,7 @@
 ## Лабораторная работа 5
 
-file:///home/alex/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/scheme.jpg
+![Scheme](https://github.com/Aleksandrosius/computer-science-itmo-ict/cs-lab-5-Aleksandrosius/raw/master/images/Scheme.png)
+
 Вы сетевой и системный администратор. Вам поставлена задача разработать схему сети.
 
 Дано 3 помещения в здании. В этих помещениях есть только голые стены и розетки. 
