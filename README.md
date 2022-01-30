@@ -1,6 +1,6 @@
 ## Лабораторная работа 5
 
-![Scheme](https://github.com/Aleksandrosius/computer-science-itmo-ict/cs-lab-5-Aleksandrosius/raw/master/images/Scheme.png)
+![](https://github.com/computer-science-itmo-ict/cs-lab-5-Aleksandrosius/raw/master/Scheme.png)
 
 Вы сетевой и системный администратор. Вам поставлена задача разработать схему сети.
 
